@@ -1,0 +1,7 @@
+{
+  "system_info": "DataWrangling",
+  "data_source": "sales_transactions.csv",
+  "processing_mode": "batch_heavy",
+  "outlier_sigma_threshold": 3.0,
+  "validation_strict": true
+}
