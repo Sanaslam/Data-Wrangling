@@ -42,7 +42,7 @@ DataWrangling/
 Prerequisites
 Ensure you have Python 3.13+ installed. Install the required dependencies:
 // COMMAND.
-pip install pandas streamlit
+pip install -r requirements.txt
 
 Execution Guide-
 
@@ -64,9 +64,3 @@ The "Wow" Factor (The Dashboard)
 7. python3 -m streamlit run src/dashboard.py
 
 
-
-
-
-4. Business Impact
-
-This pipeline eliminates manual data cleaning workflows, reducing processing time by [X]% and ensuring that the analytics team always works with validated, production-ready datasets.
