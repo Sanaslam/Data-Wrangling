@@ -2,6 +2,8 @@ ApexPlanet Data Wrangling | Sales Processing System
 
 Developed by: Sana Khan (Intern, Data Analytics)
 
+📹 [Watch the dashboard demo on LinkedIn](https://www.linkedin.com/posts/sana-khan-a452a0374_dataengineering-etl-python-activity-7456455194147680257-yOnp)
+
 1. Project Overview
 
 This repository contains a production-ready, automated ETL (Extract, Transform, Load) pipeline designed to streamline raw sales data. The system automatically ingests, validates, cleans, and visualises transaction data, ensuring data integrity for downstream analytics.
